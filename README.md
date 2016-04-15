@@ -40,6 +40,18 @@ Scaffolds out a complete svg-smart directory structure for you:
 ├── LICENSE
 ```
 
+## Tools
+
+[SVG SMART](https://github.com/websemantics/svg-smart), a Node.js module that generates all your svg, png, icon and svg sprites needs using a data-driven svg template system.
+
+[GULP SVG SMART](https://github.com/websemantics/gulp-svg-smart), Gulp wrapper and pre-packged Gulp Tasks for svg-smart node.js module.
+
+## Open Source project
+
+List of open source projects using [svg-smart](https://github.com/websemantics/svg-smart)
+
+[Branding](https://github.com/pyrocms/branding) for PyroCMS, an MVC PHP Content Management System built to be easy to use, theme and develop with. It is used by individuals and organizations of all sizes around the world
+
 ## License
 
 MIT © Web Semantics, Inc. <info@websemantics.ca>
