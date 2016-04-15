@@ -1,5 +1,4 @@
 # SVG Smart Generator   
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Automate &amp; optimize your graphic assets using SVG templates
 
 Template & data driven system to generate your needs of SVG, PNG and ICON files using [svg-smart](https://github.com/websemantics/svg-smart) module and [gulp-svg-smart](https://github.com/websemantics/gulp-svg-smart) plugin. Click [here](https://github.com/websemantics/svg-smart) for more information.
